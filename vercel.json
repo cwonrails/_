@@ -3,6 +3,6 @@
   "cleanUrls": true,
   "alias": ["johno.com"],
   "rewrites": [
-    { "source": "/", "destination": "https://components.ai/files/pub/G7sXhpmlhNPtvajrVSb6" }
+    { "source": "/test", "destination": "https://components.ai/files/pub/G7sXhpmlhNPtvajrVSb6" }
   ]
 }
